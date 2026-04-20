@@ -8,7 +8,7 @@
 
 ## 🧠 Who I Am
 
-15 years across mining, forestry, retail, and tech. Industrial Engineer since 2013 — thesis: GJR-GARCH volatility forecasting on live market data. Now applying that same rigor to ML problems that move revenue, reduce risk, and retain customers.
+15 years across mining, forestry, retail, tech, and higher education — from data collection & standards mapping for MBA accreditation (AMBA & AACSB) to ML systems that drive revenue, reduce risk, and retain customers. Industrial Engineer since 2013 — thesis: GJR-GARCH volatility forecasting on live market data.
 
 My background is the differentiator: I connect models to business decisions, not just technical outputs.
 
