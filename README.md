@@ -8,9 +8,9 @@
 
 ## 🧠 Who I Am
 
-**Industrial Engineer (5.5-year degree)** with 15 years across operations, strategy, and analytics in mining, forestry, and tech — now applying machine learning to decisions that actually get made.
+15 years across mining, forestry, retail, and tech. Industrial Engineer since 2013 — thesis: GJR-GARCH volatility forecasting on live market data. Now applying that same rigor to ML problems that move revenue, reduce risk, and retain customers.
 
-My background is the differentiator: I connect models to the CFO's question, not just the data team's notebook.
+My background is the differentiator: I connect models to business decisions, not just technical outputs.
 
 **I work on problems that move the business:**
 
@@ -122,7 +122,6 @@ Business Problem → Decision to Support → Data → Model → Business Impact
 
 ## 🌱 Currently Building
 
-- 🏷️ **Tax Rate Simulator** — modeling revenue vs compliance tradeoffs for policy decisions · Panel regression · Monte Carlo · Laffer Curve · EconML
 - ☁️ **Cloud pipeline** — production-scale Spark on AWS EMR Serverless + S3
 - 🤖 **Credit Risk Agent** — CMF public data · AI agent for credit market analysis · early stage
 - 🎓 **Data Science Certification** — exam May 6
