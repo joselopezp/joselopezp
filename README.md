@@ -86,10 +86,11 @@ Business Problem → Decision to Support → Data → Model → Business Impact
 
 ## 📂 Portfolios
 
-| Repo | Focus | What's Inside |
+| Repository | Focus | Highlights |
 |---|---|---|
-| [applied-data-science-portfolio](https://github.com/joselopezp/applied-data-science-portfolio) | 🚀 Professional projects | Fraud Detection ✅ · Tax Simulator · Credit Risk Agent · Streamlit apps |
-| [bootcamp-data-science-portfolio](https://github.com/joselopezp/bootcamp-data-science-portfolio) | 🎓 Bootcamp case study | 6-layer end-to-end retail analytics (PequeShop) |
+| applied-data-science-portfolio | 🚀 Self-driven Post-Bootcamp Portfolio | Fraud Detection ✅ · Applied projects · Continuous growth |
+| bootcamp-data-science-portfolio | 🎓 Bootcamp Portfolio | Delivered projects · Guided case studies · End-to-end analytics exercises |
+
 
 ---
 
