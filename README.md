@@ -88,8 +88,8 @@ Business Problem → Decision to Support → Data → Model → Business Impact
 
 | Repository | Focus | Highlights |
 |---|---|---|
-| applied-data-science-portfolio | 🚀 Self-driven Post-Bootcamp Portfolio | Fraud Detection ✅ · Applied projects · Continuous growth |
-| bootcamp-data-science-portfolio | 🎓 Bootcamp Portfolio | Delivered projects · Guided case studies · End-to-end analytics exercises |
+| [applied-data-science-portfolio](https://github.com/joselopezp/applied-data-science-portfolio) | 🚀 Applied Data Science Portfolio | Business-focused ML · Fraud Detection · Continuous growth |
+| [bootcamp-data-science-portfolio](https://github.com/joselopezp/bootcamp-data-science-portfolio) | 🎓 Foundation Portfolio | Delivered projects · Guided case studies · Analytics fundamentals |
 
 
 ---
