@@ -125,7 +125,7 @@ Business Problem → Decision to Support → Data → Model → Business Impact
 
 - ☁️ **Cloud pipeline** — production-scale Spark on AWS EMR Serverless + S3
 - 🤖 **Credit Risk Agent** — CMF public data · AI agent for credit market analysis · early stage
-- 🎓 **Data Science Certification** — exam May 6
+- 🎓 Data Science Certification — successfully completed (May 2026)
 
 ---
 
