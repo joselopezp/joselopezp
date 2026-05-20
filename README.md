@@ -10,6 +10,8 @@
 
 15 years across mining, forestry, retail, tech, and higher education — from data collection & standards mapping for MBA accreditation (AMBA & AACSB) to ML systems that drive revenue, reduce risk, and retain customers. Industrial Engineer since 2013 — thesis: GJR-GARCH volatility forecasting on live market data.
 
+**Certified in Data Science — Alkemy · Talento Digital/SENCE (May 2026)**
+
 My background is the differentiator: I connect models to business decisions, not just technical outputs.
 
 **I work on problems that move the business:**
@@ -125,7 +127,6 @@ Business Problem → Decision to Support → Data → Model → Business Impact
 
 - ☁️ **Cloud pipeline** — production-scale Spark on AWS EMR Serverless + S3
 - 🤖 **Credit Risk Agent** — CMF public data · AI agent for credit market analysis · early stage
-- 🎓 Data Science Certification — successfully completed (May 2026)
 
 ---
 
