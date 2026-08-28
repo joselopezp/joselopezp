@@ -137,9 +137,8 @@ Not a portfolio project — a real store taking real payments. Architecture, cod
 
 ## 🌱 Currently Building
 
-- ☁️ **Cloud pipeline** — production-scale Spark on AWS EMR Serverless + S3
-- 🤖 **Credit Risk Agent** — CMF public data · AI agent for credit market analysis · early stage
 - 🛍️ **TuttyCosas Kids** — conversion optimization, AI shopping assistant, shipment tracking
+- 📊 **Cost calibration from real data** — replacing assumed fraud cost parameters with values derived from transaction amounts
 
 ---
 
